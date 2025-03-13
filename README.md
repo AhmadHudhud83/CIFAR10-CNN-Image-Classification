@@ -64,4 +64,4 @@ Through iterative refinement, the final CNN model achieved a **validation accura
 
 ---
 
-**Author**: Ahmad Hudhud - 12220718
+**Author**: Ahmad Hudhud 
